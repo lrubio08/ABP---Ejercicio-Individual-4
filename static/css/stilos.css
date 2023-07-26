@@ -1,0 +1,40 @@
+body {
+    background-image: url("../imagenes/disposicion-carros-compra-viernes-negro-espacio-copia.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: white;
+}
+
+
+.logo{
+    height: 100px;
+}
+
+.carousel-inner {
+    height: 300px;
+}
+
+.carousel-inner img {
+    height: 300px;
+}
+
+.parrafo {
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+
+
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+}
